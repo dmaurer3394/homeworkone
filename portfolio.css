@@ -8,26 +8,39 @@
     border-color: #777777;
 }
 
-#scratch {
-
+.tile-text {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 208px;
+    position: relative;
+    top: 12px;
+    padding-top: 12px;
 }
 
-#project-2 {
-    background-color: aqua;
+#tile-1 {
+    background-image: url("scratch_screenshot.jpg")
 }
 
-#project-3 {
-    background-color: blueviolet;
+#tile-2 {
+    background-image: url("tile_2.jpg")
 }
 
-#project-4 {
-    background-color: red;
+#tile-3 {
+    background-image: url("tile_3.jpg")
 }
 
-#project-5 {
-    background-color: gold;
+#tile-4 {
+    background-image: url("tile_4.jpg")
 }
 
-#project-6 {
-    background-color: orangered;
+#tile-5 {
+    background-image: url("tile_5.jpg")
+}
+
+#tile-6 {
+    background-image: url("tile_6.jpg")
 }
