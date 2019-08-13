@@ -6,6 +6,7 @@
     border: 1px;
     border-style: solid;
     border-color: #777777;
+    box-shadow: 7px 7px 10px grey
 }
 
 .tile-text {

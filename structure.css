@@ -79,6 +79,7 @@ a:active {
 }
 
 .navbar {
+    position: absolute;
     width: 5%;
     margin-top: 35px;
     text-align: center;
@@ -86,15 +87,11 @@ a:active {
 }
 
 #about {
-    position: absolute;
-    /* float: right; */
     top: 3px;
     right: 541px;
 }
 
 #portfolio {
-    position: absolute;
-    /* float: right; */
     top: 3px;
     right: 428px;
     border-left: 1px;
@@ -105,8 +102,6 @@ a:active {
 }
 
 #contact {
-    position: absolute;
-    /* float: right; */
     top: 3px;
     right: 310px;
 }
